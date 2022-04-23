@@ -1,2 +1,3 @@
 # proj_ml_clustering
 The repository includes two python notebooks: the clustering_experiments includes all the codes that I used for clustering and create images. The store stores the cluster, their discriptions and their average value for the five dimentions. In the html folder is the code and json file for data. The word cloud data is included as svg files, as cluster (n+1).svg, which means for cluster zero, the word cloud file is cluster 1, etc. 
+The report is also included as 370 mini pj 2. docx
